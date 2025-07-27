@@ -134,5 +134,5 @@ Provision a complete CI/CD pipeline on AWS using **Terraform**, integrated with 
 ## 👨‍💻 Author
 
 - **Name**: Jitesh
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [Jitesh8260](https://github.com/Jitesh8260)
 - **Project**: Part of AWS DevOps Assignment Submission
